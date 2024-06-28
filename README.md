@@ -20,8 +20,13 @@ Aqui estão alguns dos meus projetos em React:
 <details>
   <summary><strong>Clique aqui:</strong></summary>
 
-  1. [Buscador de CEP](https://github.com/anabellypassos/Buscador-de-CEP.git): 
-🌟 🌟
+  1. [App de despesas pessoais ](https://github.com/anabellypassos/APPDespesasPessoais) :
+🌟 Este projeto é um aplicativo de controle de despesas pessoais que oferece uma interface amigável para adicionar, excluir e visualizar suas compras. Com ele, os usuários podem:
+Adicionar novas despesas, especificando os detalhes da compra.
+Excluir despesas previamente registradas.
+Selecionar a data de cada despesa para um melhor acompanhamento.
+Visualizar o total gasto em um período específico através de uma tabela.
+🌟
 
 
 
