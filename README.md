@@ -29,6 +29,11 @@ Visualizar o total gasto em um período específico através de uma tabela.
 🌟
 
 
+  1. [APP energia ](https://github.com/anabellypassos/WappControl.git) :
+🌟 Este projeto é um aplicativo para controle do uso de energia, que calcula o consumo de eletricidade e exibe,
+ por meio de gráficos detalhados, uma visão clara do consumo em diferentes categorias.
+
+🌟
 
   Sinta-se à vontade para explorar e contribuir para esses projetos! 🌟
 </details>
