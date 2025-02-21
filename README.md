@@ -29,12 +29,20 @@ Visualizar o total gasto em um período específico através de uma tabela.
 🌟
 
 
-  1. [APP energia ](https://github.com/anabellypassos/WappControl.git) :
+  2. [APP energia ](https://github.com/anabellypassos/WappControl.git) :
 🌟 Este projeto é um aplicativo para controle do uso de energia, que calcula o consumo de eletricidade e exibe,
  por meio de gráficos detalhados, uma visão clara do consumo em diferentes categorias.
 
 🌟
 
+3  [APP de Tarefas ](https://github.com/anabellypassos/OrganizadordeTarefas) :
+🌟O Organizador de Tarefas é a ferramenta ideal para quem deseja manter a produtividade em dia.
+Com uma interface convidativa e intuitiva, ele permite que você crie, salve e gerencie suas tarefas com facilidade.
+✅ Adicione suas tarefas rapidamente e mantenha tudo organizado.
+✅ Marque como concluídas para acompanhar seu progresso.
+✅ Exclua tarefas quando não forem mais necessárias.
+Seja para compromissos diários, projetos pessoais ou profissionais, o Organizador de Tarefas ajuda você a manter o foco e concluir tudo no prazo! 
+🌟
   Sinta-se à vontade para explorar e contribuir para esses projetos! 🌟
 </details>
 
